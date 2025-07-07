@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+  <title>My Resume</title>
+</head>
+<footer>
+    <small>
+      <h1>Joshua Asante</h1>
+    </small>
+  </footer>
+<img src="path/to/your/profile.jpg" alt="Profile Photo" width="150" height="150">
+<body>
+  <h2>Summary</h2>
+  <p>Here is what you should know about me</p>
+  <h2>Education</h2>
+  <p>University of North Dakota (2024-present)</p>
+  <p>Davies High School (2019-2023)</p>
+  <h2>Work Experience</h2>
+  <p>Jimmy John's (2021-present)</p>
+  <p>Walmart (2024)</p>
+  <h2>Skills</h2>
+  <p>Clean</p>
+  <p>Read carefully</p>
+  <p>Good with technology</p>
+</body>
